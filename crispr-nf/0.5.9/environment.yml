@@ -1,0 +1,15 @@
+name: crispr-nf
+dependencies:
+  - samtools=1.4.1
+  - bamtools=2.4.1
+  - fastx_toolkit=0.0.14
+  - subread=1.6.1
+  - bowtie2=2.3.0
+  - r-base=3.4.1
+  - r-tidyverse=1.1.1
+  - bioconductor-biostrings=2.46.0
+  - bioconductor-preprocesscore=1.42.0
+  - fastqc=0.11.5
+  - multiqc=0.9.1a0
+  - mageck=0.5.9
+  - seqtk=1.2
