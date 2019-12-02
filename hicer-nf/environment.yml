@@ -1,0 +1,11 @@
+name: hicer-nf
+dependencies:
+  - hicup=0.6.1
+  - hicexplorer=3.2
+  - trim-galore=0.6.5
+  - prinseq=0.20.4
+  - deeptools=3.3.0
+  - samtools=1.9
+  - r=3.5.1
+  - jupyter=1.0.0
+  - hmmlearn=0.2.2
