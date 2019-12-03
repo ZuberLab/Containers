@@ -9,3 +9,4 @@ dependencies:
   - r=3.5.1
   - jupyter=1.0.0
   - hmmlearn=0.2.2
+  - multiqc=1.8
