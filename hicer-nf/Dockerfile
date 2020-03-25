@@ -3,7 +3,6 @@ FROM continuumio/miniconda:4.5.11
 WORKDIR /hicer-nf
 
 COPY environment.yml /hicer-nf/environment.yml
-COPY requirements.txt /hicer-nf/requirements.txt
 
 
 RUN apt-get update \

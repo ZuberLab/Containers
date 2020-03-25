@@ -3,8 +3,6 @@ FROM continuumio/miniconda:4.5.11
 WORKDIR /repliseq-nf
 
 COPY environment.yml /repliseq-nf/environment.yml
-COPY requirements.txt /repliseq-nf/requirements.txt
-
 
 RUN apt-get update \
     && apt-get install -y procps \
