@@ -1,0 +1,6 @@
+name: repliseq-nf
+dependencies:
+  - trim-galore=0.6.5
+  - samtools=1.9
+  - multiqc=1.8
+  - bwa=0.7.17
