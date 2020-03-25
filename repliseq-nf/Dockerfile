@@ -1,4 +1,4 @@
-FROM continuumio/miniconda:4.5.11
+FROM continuumio/miniconda:4.7.12
 
 WORKDIR /repliseq-nf
 
