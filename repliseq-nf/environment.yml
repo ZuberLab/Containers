@@ -4,3 +4,4 @@ dependencies:
   - samtools=1.9
   - multiqc=1.8
   - bwa=0.7.17
+  - picard=2.22.1
