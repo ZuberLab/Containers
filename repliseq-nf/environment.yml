@@ -6,3 +6,4 @@ dependencies:
   - bwa=0.7.17
   - picard=2.22.1
   - bamtools=2.5.1
+  - deeptools=3.4.1
