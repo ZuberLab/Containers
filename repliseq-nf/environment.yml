@@ -12,3 +12,4 @@ dependencies:
   - libopenblas=0.3.3
   - r-getopt=1.20.3
   - ucsc-bedgraphtobigwig=357
+  - openssl=1.0
