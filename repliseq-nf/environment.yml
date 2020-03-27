@@ -9,3 +9,4 @@ dependencies:
   - deeptools=3.4.1
   - bioconductor-preprocesscore=1.48.0
   - bedtools=2.29.2
+  - libopenblas=0.3.3
