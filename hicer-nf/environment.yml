@@ -1,4 +1,8 @@
 name: hicer-nf
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
 dependencies:
   - hicup=0.6.1
   - hicexplorer=3.2
